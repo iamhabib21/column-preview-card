@@ -139,25 +139,7 @@ font-size: 15px;
     .principal{
         grid-template-columns: 1fr;
         
-    } 
-.first{
-    border-radius: 8px 8px 0  0;
 
-}
-.third{
-    border-radius: 0 0 8px 8px;
-}
-.first p {
-    font-size: 19px;
-    padding-right: 205px;
-}
-.second p{
- padding-right: 190px;
-    font-size: 19px;
-} 
-.third p{
-    font-size:19px ;
-    padding-right: 188px;
 }
 }
 
